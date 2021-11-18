@@ -1,5 +1,5 @@
-### Hi there 👋
-## Abednego Steven here! U can call me abed, I won't describe myself in-detail here, because this acc just for my repo/bank to save my projects and portofolios. Thankyou!
+## Hi there 👋
+### Abednego Steven here! U can call me abed, I won't describe myself in-detail here, because this acc just for my repo/bank to save my projects and portofolios. Thankyou!
 
 
 - 🔭 I’m currently pursuing a Bachelor's Degree in Informatics Engineering at Maranatha Christian University.
