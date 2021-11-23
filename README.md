@@ -1,4 +1,5 @@
-https://readme-typing-svg.herokuapp.com/?lines=Hi+there+�;Second+line+of+text)](https://git.io/typing-svg
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 
 ## Hi there 👋
 ### Abednego Steven here! U can call me abed, I won't describe myself in-detail here, because this acc just for my repo/bank to save my projects and portofolios. Thankyou!
