@@ -2,7 +2,7 @@
 
 
 
-<p align="center" style="margin-left:10vh">
+<p align="center" style="margin-left:30vh">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;Abednego+Steven+here!">
 </p>
 
