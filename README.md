@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;Abednego+Steven+here!)](https://git.io/typing-svg)
+<div>
+  <p style="text-align:center;">
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;Abednego+Steven+here!)](https://git.io/typing-svg)
+  </p>
+<div>
 
 
 <div align="center">
