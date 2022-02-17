@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img style="margin-left:300px" src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;Abednego+Steven+here!&font=Fira%20Code&center=true&width=380&height=50">
+  <img style="margin-left:300px" src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;Abednego+Steven+here!&font=Fira%20Code&center=true&width=380&height=55">
 </p>
 
 
