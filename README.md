@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;Abednego+Steven+here!)](https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;Abednego+Steven+here!)">
 </p>
 
 
