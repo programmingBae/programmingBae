@@ -1,7 +1,11 @@
 
-<center>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;Abednego+Steven+here!)](https://git.io/typing-svg)
-  </center>
+
+
+
+  
+<p align="center">
+  <img width="200" src="[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;Abednego+Steven+here!)](https://git.io/typing-svg)">
+</p>
 
 
 
