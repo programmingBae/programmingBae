@@ -2,8 +2,8 @@
 
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;Abednego+Steven+here!)">
+<p align="center" style="margin-left:10vh">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;Abednego+Steven+here!">
 </p>
 
 
