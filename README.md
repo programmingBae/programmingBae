@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="200" src="(https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;Abednego+Steven+here!)](https://git.io/typing-svg)">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;Abednego+Steven+here!)](https://git.io/typing-svg)
 </p>
 
 
