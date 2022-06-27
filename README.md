@@ -15,6 +15,8 @@
 <br>
 <br>
 
+![](https://komarev.com/ghpvc/?programmingBae&label=PROFILE+VIEWS)
+
 
 - 🔭 I’m currently pursuing a Bachelor's Degree in Informatics Engineering at Maranatha Christian University.
 - 📫 How to reach me: abedwehh@gmail.com
