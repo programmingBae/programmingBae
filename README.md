@@ -19,6 +19,6 @@
 
 
 - 🔭 I’m currently pursuing a Bachelor's Degree in Informatics Engineering at Maranatha Christian University.
-- 📫 How to reach me: abedwehh@gmail.com
+- 📫 How to reach me: abednegostevensihite@gmail.com
 
 
